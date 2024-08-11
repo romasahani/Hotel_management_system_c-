@@ -1,4 +1,4 @@
-# Collaborators:
+# Team Members:
 ### Rahul Kushwaha
 ### Roshan Kanu
 ### Rohit Kumar Yadav
