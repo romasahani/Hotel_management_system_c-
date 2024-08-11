@@ -12,7 +12,7 @@ C++ is an object-oriented programming language which gives a clear structure to 
 * iostream :- For standard input and output
 * vector :- For vector container 
 * Algorithm :- For searching, sorting, counting, manipulating
-* String :- To create, inspect, and modify the sequence of character
+* String :- To create, inspect, and modify sting
 * fstream :- To create files, write information to files, and read information from files
 
 
