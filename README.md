@@ -21,4 +21,4 @@ raditionally, a hotel property management system was defined as a system that en
 
 ![Hotel-Management-System](https://github.com/user-attachments/assets/b938827f-d27f-4f8d-876f-e546fbc64817)
 
-![HotelManagement](https://github.com/user-attachments/assets/e42c57ef-aa07-4372-8d05-c9a9d32b5d56)
+
