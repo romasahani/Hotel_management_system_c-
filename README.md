@@ -1,4 +1,4 @@
-# collaborators:
+# Collaborators:
 ### Rahul Kushwaha
 ### Roshan Kanu
 ### Rohit Kumar Yadav
