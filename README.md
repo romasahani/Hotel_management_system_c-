@@ -1,8 +1,8 @@
 # collaborators:
-## Rahul Kushwaha
-## Roshan Kanu
-## Rohit Kumar Yadav
-## Roma Kumari Sahani
+### Rahul Kushwaha
+### Roshan Kanu
+### Rohit Kumar Yadav
+### Roma Kumari Sahani
 
 
 # C++
