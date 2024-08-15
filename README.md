@@ -19,6 +19,18 @@ C++ is an object-oriented programming language which gives a clear structure to 
 # Hotel_management_system
 raditionally, a hotel property management system was defined as a system that enabled a hotel or group of hotels to manage front-office capabilities, such as booking reservations, guest check-in/checkout, room assignment, managing room rates, and billing.
 
+```mermaid
+graph TD;
+    Admin-->Login;
+    Login-->Room Status;
+    Login-->Customer;
+    Room Status-->Room allotment;
+    Room Status-->Add room;
+    Customer-->Billing;
+    Customer-->Rehistration Details;
+```
+
+
 
 ![Hotel-Management-System](https://github.com/user-attachments/assets/f702d659-104e-429d-a8d5-1b4d45339641)
 
