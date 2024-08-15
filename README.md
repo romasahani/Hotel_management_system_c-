@@ -22,12 +22,12 @@ raditionally, a hotel property management system was defined as a system that en
 ```mermaid
 graph TD;
     Admin-->Login;
-    Login-->Room Status;
+    Login-->Room_Status;
     Login-->Customer;
-    Room Status-->Room allotment;
-    Room Status-->Add room;
+    Room_Status-->Room_allotment;
+    Room_Status-->Add_room;
     Customer-->Billing;
-    Customer-->Rehistration Details;
+    Customer-->Rehistration_Details;
 ```
 
 
