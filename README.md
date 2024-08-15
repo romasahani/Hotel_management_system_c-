@@ -27,10 +27,9 @@ graph TD;
     Room_Status-->Room_allotment;
     Room_Status-->Add_room;
     Customer-->Billing;
-    Customer-->Rehistration_Details;
+    Customer-->Registration_Details;
 ```
 
 
 
-![Hotel-Management-System](https://github.com/user-attachments/assets/f702d659-104e-429d-a8d5-1b4d45339641)
 
